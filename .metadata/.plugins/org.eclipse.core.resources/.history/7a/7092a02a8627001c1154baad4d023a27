@@ -1,0 +1,5 @@
+package com.vamsi.scccapp.config;
+
+public class LimitsExpiry {
+
+}
