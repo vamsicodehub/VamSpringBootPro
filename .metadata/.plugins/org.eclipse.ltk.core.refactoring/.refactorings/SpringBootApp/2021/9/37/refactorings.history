@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.vamsi.sbs.swagger&apos; to &apos;com.vamsi.sbapp.swagger&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootApp&apos;&#x0D;&#x0A;- Original element: &apos;SpringBootApp/src/main/java/com.vamsi.sbs.swagger&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringBootApp/src/main/java/com.vamsi.sbapp.swagger&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.vamsi.sbs.swagger&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.vamsi.sbs.swagger" name="com.vamsi.sbapp.swagger" qualified="false" references="true" stamp="1631182565670" textual="false" version="1.0"/>
-</session>

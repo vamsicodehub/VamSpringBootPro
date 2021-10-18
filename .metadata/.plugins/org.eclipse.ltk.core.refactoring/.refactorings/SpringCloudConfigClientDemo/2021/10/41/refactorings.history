@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;LimitsExpiry.java&apos; to &apos;SpringCloudConfigClientDemo/src/main/java/com.vamsi.scccapp.config&apos;&#x0D;&#x0A;- Original project: &apos;SpringCloudConfigClientDemo&apos;&#x0D;&#x0A;- Destination element: &apos;SpringCloudConfigClientDemo/src/main/java/com.vamsi.scccapp.config&apos;&#x0D;&#x0A;- Original element: &apos;com.vamsi.scccapp.config.LimitsExpiry.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.vamsi.scccapp.config" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.vamsi.scccapp.config{LimitsExpiry.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633624419541" units="1" version="1.0"/>
-</session>

@@ -1,2 +1,0 @@
-spring.application.name=limits-expiry
-server.port=8688
