@@ -25,6 +25,13 @@ public class EmployeeController {
 	@Autowired
 	EmployeeService service1;
 	
+	@GetMapping("/helloWorld")
+	public String helloWorld() {
+		System.out.println("Service :: "+service);
+		System.out.println("Service1 :: "+service1);
+		return "Hello World";
+	}
+	
 	@GetMapping("/saveEmp")
 	public void saveEmployee() {
 		System.out.println("Service :: "+service);

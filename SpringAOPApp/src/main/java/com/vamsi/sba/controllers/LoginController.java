@@ -17,6 +17,11 @@ public class LoginController {
 	@GetMapping("/authenticate")
 	public boolean authenticateUser(String username, String password) {
 		return loginService.authenticateUser();
+	}                          
+	
+	@GetMapping("/helloWorld")
+	public String helloWorld() {
+		return "Hello World";
 	}
 
 }
